@@ -1,0 +1,24 @@
+{
+  "originHash" : "71aab4c293417a5f3320826b04956a0f8bcfde83bb7d3eff51f2ad8ee0efff66",
+  "pins" : [
+    {
+      "identity" : "floatinglabeltextfieldstyle",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/reddavis/FloatingLabelTextFieldStyle",
+      "state" : {
+        "branch" : "main",
+        "revision" : "2c048897b4e68ddcdc78d33c2707c1c336dcc5e1"
+      }
+    },
+    {
+      "identity" : "floatingprompttextfield",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/EmilioPelaez/FloatingPromptTextField",
+      "state" : {
+        "revision" : "eac6ebeed385c7527eab8e63eb0371708a271b12",
+        "version" : "0.4.0"
+      }
+    }
+  ],
+  "version" : 3
+}
